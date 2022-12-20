@@ -1,3 +1,1 @@
-friends = ["Jacob", "Jake", "Nathan"]
-
-print(friends)
+ coordinates = (4, 5)
