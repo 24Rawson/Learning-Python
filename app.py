@@ -1,5 +1,5 @@
-def sayhi(name, age):
-    print("Hello " + name + ", you are " + age)
+def cube(num):
+    return num*num*num
 
-sayhi("Mike", "35")
-sayhi("Steve", "23")
+
+print(cube(6))
